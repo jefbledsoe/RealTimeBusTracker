@@ -1,22 +1,21 @@
-Real Time Bus Tracker
+# Real Time Bus Tracker project
+
+This webpage was designed with simplicity in mind so that you can easily view and keep track of the positions of a few active buses in the Boston, MA area. There is not much to it. Once you visit the site you will be presented with a map in the middle of the page and some bus pins moving around the map itself every 15 seconds.
+
+# changes to come...
+
+<ul>
+<li> An update to the buttons to be more responsive on mobile along with reformatting the screen for mobile devices so it doesnt look so compact</li>
+<li> bus numbers will be added to the moving bus pins</li>
+<li> clicking on the buses will take you to a street view of exactly there that bus is</li>
+<li> links will be added so you can view buses in other busy cities</li>
+</ul>
+
+Enjoy this fun and playful project?
 
 
 
-Description:   
-
-This webpage was designed with simplicity in mind so that you can easily view and keep track of the positions of a few active buses in the Boston, MA area. 
-
-Use:
-
-There is not much to it. Once you visit the site you will be presented with a map in the middle of the page and some bus pins moving around the map itself every 15 seconds.
-
-Roadmap:
-
-In future editions the bus numbers will be added to the moving bus pins, clicking on the buses will take you to a street view of exactly there that bus is and finally links will be added so you can view buses in other busy cities.
-
-
-
-MIT License
+# MIT License
 
 Copyright (c) 2020 John Williams
 
